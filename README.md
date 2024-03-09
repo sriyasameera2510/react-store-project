@@ -1,9 +1,21 @@
-# Getting Started with Create React App
+# Simple Shopping Cart Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple web project aimed at refreshing skills in React, HTML, CSS, and Bootstrap. The project simulates a basic online shopping experience where users can browse items, add them to a cart, and proceed to purchase.
 
-## Available Scripts
+## Features
+Browse through a directory of items.
+Add items to a cart.
+View the items in the cart.
+Remove items from the cart.
+Proceed to checkout.
 
+## Technologies Used
+React
+HTML5
+CSS3
+Bootstrap
+
+### Available Scripts
 In the project directory, you can run:
 
 ### `npm start`
@@ -28,4 +40,10 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+
+## Acknowledgments
+This project was created as a refresher exercise for React, HTML, CSS, and Bootstrap.
+Inspired by various online shopping websites.
+
 
